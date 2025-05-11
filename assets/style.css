@@ -1,0 +1,20 @@
+.nav-home{
+    background-color: #e2e2e2;
+    padding: 10px;
+    margin: auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    padding-left: 20px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.inicio{
+    text-decoration: none;
+    color: black;
+    margin-right: auto;
+}
